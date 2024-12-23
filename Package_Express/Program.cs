@@ -8,9 +8,9 @@ namespace VariablesAndDataTypes
         {
             Console.WriteLine("Welcome to Package Express. Please follow the instructions below.");
             Console.WriteLine("Please enter the package weight?");
+            float packageWeight = Convert.ToSingle(Console.ReadLine());
 
             // checking the package weight requirement
-            float packageWeight = Convert.ToSingle(Console.ReadLine());
             if (packageWeight > 50.0 )
             {
                 Console.WriteLine("Package too heavy to be shipped via Package Express. Have a good day.");            
@@ -35,7 +35,7 @@ namespace VariablesAndDataTypes
             else
             {
                 // calculating and displaying the quote
-                double quote = packageWidth * packageHeight * packageLength/100.0;
+                double quote = packageWidth * packageHeight * packageLength*packageWeight/100.0;
                 Console.WriteLine("Your estimated total for shipping this package is: " + quote.ToString("C"));
             }
             Console.Read();
