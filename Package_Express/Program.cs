@@ -30,17 +30,6 @@ namespace VariablesAndDataTypes
                 Console.WriteLine("Your estimated total for shipping this package is: " + quote.ToString("C"));
                 Console.Read();
             }
-
-
-
-
-
-
-
-
-
-
-
             Console.Read();
         }
 
