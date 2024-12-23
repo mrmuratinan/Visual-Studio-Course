@@ -37,6 +37,8 @@ namespace PackageExpress
                 // calculating and displaying the quote
                 double quote = packageWidth * packageHeight * packageLength * packageWeight / 100.0;
                 Console.WriteLine("Your estimated total for shipping this package is: " + quote.ToString("C"));
+                Console.WriteLine("Thank you!");
+
             }
             Console.Read();
         }
