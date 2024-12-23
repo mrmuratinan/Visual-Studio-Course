@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace VariablesAndDataTypes
+namespace PackageExpress
 {
     class Program
     {
