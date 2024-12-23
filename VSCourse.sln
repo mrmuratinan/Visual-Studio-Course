@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyASPWebSite", "MyASPWebSit
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Welcome to Acme Accounting Systems", "Welcome to Acme Accounting Systems\Welcome to Acme Accounting Systems.csproj", "{4A5FD4B6-96C2-42F7-AB6F-1B22083C52E0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Package_Express", "VariablesAndDataTypes\Package_Express.csproj", "{DE5705AE-6829-4ADE-B39F-3096401EAC77}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{4A5FD4B6-96C2-42F7-AB6F-1B22083C52E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4A5FD4B6-96C2-42F7-AB6F-1B22083C52E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4A5FD4B6-96C2-42F7-AB6F-1B22083C52E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE5705AE-6829-4ADE-B39F-3096401EAC77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE5705AE-6829-4ADE-B39F-3096401EAC77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE5705AE-6829-4ADE-B39F-3096401EAC77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE5705AE-6829-4ADE-B39F-3096401EAC77}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
