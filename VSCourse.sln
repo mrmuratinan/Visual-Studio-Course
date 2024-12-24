@@ -5,7 +5,7 @@ VisualStudioVersion = 17.12.35527.113
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyASPWebSite", "MyASPWebSite\MyASPWebSite.csproj", "{8744E3B5-5177-4D76-8E5D-B4DD0D72A2A4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Welcome to Acme Accounting Systems", "Welcome to Acme Accounting Systems\Welcome to Acme Accounting Systems.csproj", "{4A5FD4B6-96C2-42F7-AB6F-1B22083C52E0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercises", "Welcome to Acme Accounting Systems\Exercises.csproj", "{4A5FD4B6-96C2-42F7-AB6F-1B22083C52E0}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Package_Express", "VariablesAndDataTypes\Package_Express.csproj", "{DE5705AE-6829-4ADE-B39F-3096401EAC77}"
 EndProject
